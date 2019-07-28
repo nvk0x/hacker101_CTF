@@ -1,8 +1,4 @@
-# hacker101_CTF
 
-<<<<<<< HEAD
-# hacker101_CTF
-=======
 # Hacker101 CTF
 
 ##  Overview
